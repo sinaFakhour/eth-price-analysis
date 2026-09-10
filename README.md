@@ -2,7 +2,7 @@
 
 ## Motivation
 
-In late 2023 and early 2024, during the latest major crypto market bull run, several major cryptocurrencies reached new all-time highs (ATH), including BTC and SOL. Ethereum (ETH), however, was a notable exception: while many investors were expecting ETH to reach a new ATH, it never surpassed its previous one before the market turned downward.
+In late 2023 and early 2024, during the latest major crypto market bull run, several major cryptocurrencies reached new all-time highs (ATH), including BTC and SOL. Ethereum (ETH) also reached a new ATH, but unlike many other major cryptocurrencies, it struggled to move significantly beyond its previous peak before the market turned downward.
 
 Since I had recently been working with pandas, matplotlib, and scikit-learn to visualize, estimate, and analyze data, I came up with an idea that I wanted to test using ETH. I wanted to examine whether two variables that might have a relationship with the ETH market could help explain variation in ETH's price, either individually or when used together.
 
